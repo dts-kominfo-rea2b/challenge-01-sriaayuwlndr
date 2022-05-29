@@ -32,10 +32,10 @@ const firstUser = {
     gender: "Female",
     age: "17",
     email: "monica@dingdong.com",
-    color: colorMonica,
+    favoriteColor: colorMonica,
     isHavePet: "Yes",
-    favRes: favResMonica,
     education: educationMonica,
+    favoriteRestaurant: favResMonica,
 };
 
 const secondUser = {
@@ -43,10 +43,10 @@ const secondUser = {
     gender: "Male",
     age: "23",
     email: "wendy@dingdong.com",
-    color: colorWendy,
+    favoriteColor: colorWendy,
     isHavePet: "No",
-    favRes: favResWendy,
     education: educationWendy,
+    favoriteRestaurant: favResWendy,
 };
 
 
