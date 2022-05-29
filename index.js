@@ -24,8 +24,10 @@ let educationWendy = [educationWendySD, educationWendySMP, educationWendySMA, ed
 let favResMonica = new Set(["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Padang", "Tteok"]);
 let favResWendy = new Set(["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]);
 
-let colorMonica = new Set(["Yellow","Pink","White","Purple"]);
-let colorWendy = new Set(["Blue","Black","Grey"]);
+// let colorMonica = new Set(["Yellow","Pink","White","Purple"]);
+// let colorWendy = new Set(["Blue","Black","Grey"]);
+let colorMonica = ["Yellow","Pink","White","Purple"];
+let colorWendy = ["Blue","Black","Grey"];
 
 const firstUser = {
     name: "Monica",
