@@ -21,8 +21,11 @@ let educationWendyUniversitas = new educationUsers('4','Universitas Maju', 'Tang
 let educationMonica = [educationMonicaSD, educationMonicaSMP, educationMonicaSMA];
 let educationWendy = [educationWendySD, educationWendySMP, educationWendySMA, educationWendyUniversitas];
 
-let favResMonica = new Set(["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Padang", "Tteok"]);
-let favResWendy = new Set(["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]);
+// let favResMonica = new Set(["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Padang", "Tteok"]);
+// let favResWendy = new Set(["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]);
+
+let favResMonica = ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Padang", "Tteok"];
+let favResWendy = ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"];
 
 // let colorMonica = new Set(["Yellow","Pink","White","Purple"]);
 // let colorWendy = new Set(["Blue","Black","Grey"]);
